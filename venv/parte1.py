@@ -3,3 +3,5 @@
 #giallo perchè non ancora memorizzato, quindi
 #clic destro si parte1, git, add
 #per salvarlo, git-->commit
+
+print('ciao')
